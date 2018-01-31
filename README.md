@@ -8,7 +8,7 @@
 #### The Waterfall Model is an example sequential software development process, where progress flows toward the conclusion. through the phases of a project (analysis, planning, design, development, testing). This involves fully documenting a project in advance, including the user interface, user stories, and all the features’ variations and outcomes.
 
 ## Evolutionary Model
-#### This model is the idea of developing an initial software idea from very broad specifications. Each version of you make will inherit the best features from earlier versions. Each version is changed based upon feedback from yourself or your team members to produce a system which meets the clients needs. At this point the system may be delivered. development and validation are done at the same time with feedback between each.
+#### This model is the idea of developing an initial software idea from very broad specifications. Each version of you make will inherit the best features from earlier versions. Each version is changed based upon feedback from yourself or your team members to produce a system which meets the clients needs. At this point the system may be delivered. Development and validation are done at the same time with feedback between each.
 
 ## Prototype Model
 #### The idea of the Prototype model is that instead of defining the requirements before a design or coding can proceed, a disposable prototype is built to understand the requirements. This idea in this prototype are then developed further as requirements are understood and mapped out.
