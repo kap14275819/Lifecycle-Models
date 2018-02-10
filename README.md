@@ -42,4 +42,13 @@
 
 #### License and support costs: What are the one-time and annual costs of using a technology? While my developers might have a fondness for certain proprietary software, is there an adequate free or low-cost open-source alternative? Keep in mind that even open-source software can be expensive if the vendor restricts commercial use or has inconvenient licensing terms.
 
+## CMM
+#### The Capability Maturity Model (CMM) is a methodology used to develop and refine an organization's software development process. The model describes a five-level evolutionary path of increasingly organized and systematically more mature processes. CMM was developed and is promoted by the Software Engineering Institute (SEI), a research and development center sponsored by the U.S. Department of Defense (DoD). 
+#### The CMM is similar to ISO 9001, one of the ISO 9000 series of standards specified by the International Organization for Standardization (ISO). The ISO 9000 standards specify an effective quality system for manufacturing and service industries; ISO 9001 deals specifically with software development and maintenance. The main difference between the two systems lies in their respective purposes: ISO 9001 specifies a minimal acceptable quality level for software processes, while the CMM establishes a framework for continuous process improvement and is more explicit than the ISO standard in defining the means to be employed to that end.
+### CMM's Five Maturity Levels of Software Processes:
+#### At the initial level, processes are disorganized, even chaotic. Success is likely to depend on individual efforts, and is not considered to be repeatable, because processes would not be sufficiently defined and documented to allow them to be replicated.
+#### At the repeatable level, basic project management techniques are established, and successes could be repeated, because the requisite processes would have been made established, defined, and documented.
+#### At the defined level, an organization has developed its own standard software process through greater attention to documentation, standardization, and integration.
+#### At the managed level, an organization monitors and controls its own processes through data collection and analysis.
+#### At the optimizing level, processes are constantly being improved through monitoring feedback from current processes and introducing innovative processes to better serve the organization's particular needs.
 
