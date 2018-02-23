@@ -5,7 +5,7 @@
 #### The Spiral model is best used on very large projects with ever changing tasks and challenges that will require new versions of the project to be constantly rolled out. An example of this is the development of operating systems such as iOS, as new versions are required to be released and tested regularly. 
 ![model](https://github.com/kap14275819/Lifecycle-Models/blob/master/spiral.png)
 ### Risks
-#### Risks are possible conditions and events that prevent the development team from its goals. There’s a wide range of them, from trivial to fatal. The primary task for the development team is to enumerate all the possible risks and prioritize them according to importance. The next step is to determine the potential strategies that can help to overcome the risks. Evaluation of these parameters can cause changes at the next steps. At the end of this stage, a prototype is produced.
+#### Risks are possible conditions and events that prevent the development team from its goals. There’s a wide range of them, from trivial to fatal. To manage the risks in the model the primary task for the team is to mention all the possible risks and prioritize them according to importance. The next step is to determine the potential strategies that can help to overcome the risks. Evaluation of these parameters can cause changes at the next steps. And then at the end of this stage, a prototype is produced.
 
 ## Waterfall Model
 #### The Waterfall Model is an example sequential software development process, where progress flows toward the conclusion. through the phases of a project (analysis, planning, design, development, testing). This involves fully documenting a project in advance, including the user interface, user stories, and all the features’ variations and outcomes.
