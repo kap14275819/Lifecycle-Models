@@ -7,15 +7,19 @@
 ### Risks
 #### Risks are possible conditions and events that prevent the development team from its goals. There’s a wide range of them, from trivial to fatal. To have all these risks managed in the Spial model, the first primary task to be done is to make sure all possible risks are mentioned and then prioritise them according to importance. Afterwards the next will be to then make sure any potential strategies that will be able to help overcome the risks. Evaluation of these parameters can cause changes at the next steps. And then at the end of this stage, a prototype is produced.
 
-## V-model
+## V-model(Sequential)
+#### In software development, the V-model is represented by a development process that is considered to be an extension fo the waterfall model, and is an example of the more general V-model. The V-Model determines the relationship between each of the phases in the development lifecycle and its associated phase of testing. The model focuses on a fairly typical waterfall method that follows strict, step-by-step stages. While initial stages are broad design stages, progress proceeds down through more and more granular stages, leading into implementation and coding, and finally back through all testing stages prior to completion of the project.
 
-## Waterfall Model
+#### Similar to the traditional waterfall model, the V-Model specifies a series of linear stages that should occur across the life cycle, one at a time, until the project is complete. For this reason V-Model is not considered an agile development method, and due to the sheer volume of stages and their integration, understanding the model in detail can be challenging for everyone on the team, let alone clients or users. Instead of moving down in a linear way, the process steps are bent upwards after the coding phase, to form the typical V shape.
+
+
+## Waterfall Model(Sequential)
 #### The Waterfall Model is an example sequential software development process, where progress flows toward the conclusion. through the phases of a project (analysis, planning, design, development, testing). This involves fully documenting a project in advance, including the user interface, user stories, and all the features’ variations and outcomes.
 
-## Evolutionary Model
+## Evolutionary Model(iterative)
 #### This model is the idea of developing an initial software idea from very broad specifications. Each version of you make will inherit the best features from earlier versions. Each version is changed based upon feedback from yourself or your team members to produce a system which meets the clients needs. At this point the system may be delivered. Development and validation are done at the same time with feedback between each.
 
-## Prototype Model
+## Prototype Model(iterative)
 #### The idea of the Prototype model is that instead of defining the requirements before a design or coding can proceed, a disposable prototype is built to understand the requirements. This idea in this prototype are then developed further as requirements are understood and mapped out.
 
 ## Feasibility Report
