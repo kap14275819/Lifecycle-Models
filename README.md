@@ -43,11 +43,11 @@
 
 ## How Can Technical Solutions Be Compared
 ### Technical solutions can be compared based on the following factors: 
-#### Fitness: Does the technology address the problem at hand, or is it being used for an unintended purpose?
+#### Fitness: Is the technology that is being used addressing the problem at hand, or is it being used for an unintended purpose?
 
-#### Maturity: It's risky to use version 1.0 of anything. Both hardware and software companies are frequently pressed to release products before they are ready.
+#### Maturity: It is risky to use the first version of anything. Both hardware and software companies are frequently pressed to release products before they are ready.
 
-#### Support: If something goes wrong, who/how many people can help solve the problem? While commercial (paid) support is appreciated, open-source products with large numbers of helpful users can be even more valuable.
+#### Support: If something goes wrong, who/how many people can help solve that problem? While commercial (paid) support is appreciated, open-source products with large numbers of helpful users can be even more valuable.
 
 #### Reliability/availability/scalability: Does the technology support the required usage volume? Does it offer fail-over mechanisms for high availability?
 
