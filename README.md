@@ -1,11 +1,13 @@
 # Lifecycle-Models
 
 ## Spiral Lifecycle Model
-#### The Spiral lifecycle model is an example of a risk-driven model. This means that the success of a project depends on how well risk analysis is carried out. Analysis is the process of estimating and monitoring the probability of completing tehnical challanges in your project and to account for other possible issues such as cost increases. In the spiral lifecycle model, the higher the risk is deemed to be, the more effort it places on completing that task.
+#### The Spiral lifecycle model is an example of a risk-driven model. This means that the success of a project depends on how well risk analysis is carried out. Analysis is the process of estimating and monitoring the probability of completing technical challenges in your project and to account for other possible issues such as cost increases. In the spiral lifecycle model, the higher the risk is deemed to be, the more effort it places on completing that task.
 #### The Spiral model is best used on very large projects with ever changing tasks and challenges that will require new versions of the project to be constantly rolled out. An example of this is the development of operating systems such as iOS, as new versions are required to be released and tested regularly. 
 ![model](https://github.com/kap14275819/Lifecycle-Models/blob/master/spiral.png)
 ### Risks
-#### Risks are possible conditions and events that prevent the development team from its goals. There’s a wide range of them, from trivial to fatal. To have all these risks managed in the model, the first primary task to be done is to make sure all possible risks are mentioned and then prioritise them according to importance. Afterwars the next will be to then make sure any potential strategies that will be able to help overcome the risks. Evaluation of these parameters can cause changes at the next steps. And then at the end of this stage, a prototype is produced.
+#### Risks are possible conditions and events that prevent the development team from its goals. There’s a wide range of them, from trivial to fatal. To have all these risks managed in the model, the first primary task to be done is to make sure all possible risks are mentioned and then prioritise them according to importance. Afterwards the next will be to then make sure any potential strategies that will be able to help overcome the risks. Evaluation of these parameters can cause changes at the next steps. And then at the end of this stage, a prototype is produced.
+
+## V-model
 
 ## Waterfall Model
 #### The Waterfall Model is an example sequential software development process, where progress flows toward the conclusion. through the phases of a project (analysis, planning, design, development, testing). This involves fully documenting a project in advance, including the user interface, user stories, and all the features’ variations and outcomes.
@@ -16,19 +18,19 @@
 ## Prototype Model
 #### The idea of the Prototype model is that instead of defining the requirements before a design or coding can proceed, a disposable prototype is built to understand the requirements. This idea in this prototype are then developed further as requirements are understood and mapped out.
 
-##  Feasibility Report
-#### A feasibility report is designed to present the individual challanges in a project and talk about any potential solutions to these challenges. When potential solutions are presented, they are expanded upon in depth to explain exactly how this would solve the problem. Once a solution is agreed upon, it is sent to the project manager for authorization.
+## Feasibility Report
+#### A feasibility report is designed to present the individual challenges in a project and talk about any potential solutions to these challenges. When potential solutions are presented, they are expanded upon in depth to explain exactly how this would solve the problem. Once a solution is agreed upon, it is sent to the project manager for authorization.
 
 ### A Feasibility report will contain the following:
 #### Proposed Project Description
 
-##### This segment is for essentially describing the project that is being worked on and goes into detail about the time contraints and how much the project will cost, not only money but in terms of manpower too.
+##### This segment is for essentially describing the project that is being worked on and goes into detail about the time constraints and how much the project will cost, not only money but in terms of manpower too.
 
 #### Market Analysis Section
-##### This section looks at the market that the current project will be targeted at. Detailing the size of the market and its demographic using availible data or by completing surveys. This is done to determine if a venture into this market will be profitable.
+##### This section looks at the market that the current project will be targeted at. Detailing the size of the market and its demographic using available data or by completing surveys. This is done to determine if a venture into this market will be profitable.
 
 #### Technical Feasibility Section
-##### Technical Feasibility covers the ability to complete the programming and other techinical challanges
+##### Technical Feasibility covers the ability to complete the programming and other technical challenges
 
 #### Financial Feasibility Section
 ##### The Financial Feasibility section talks about any costs that come with the project and if the venture is profitable, this can include costs of software, staff payments and bills.
@@ -46,7 +48,7 @@
 #### License and support costs: What are the one-time and annual costs of using a technology? While my developers might have a fondness for certain proprietary software, is there an adequate free or low-cost open-source alternative? Keep in mind that even open-source software can be expensive if the vendor restricts commercial use or has inconvenient licensing terms.
 
 ## CMM
-#### The Capability Maturity Model (CMM) is a methodology used to develop and refine an organization's software development process. The model describes a five-level evolutionary path of increasingly organized and systematically more mature processes. CMM was developed and is promoted by the Software Engineering Institute (SEI), a research and development center sponsored by the U.S. Department of Defense (DoD). 
+#### The Capability Maturity Model (CMM) is a methodology used to develop and refine an organization's software development process. The model describes a five-level evolutionary path of increasingly organized and systematically more mature processes. CMM was developed and is promoted by the Software Engineering Institute (SEI), a research and development center sponsored by the U.S. Department of Defence (DoD). 
 #### The CMM is similar to ISO 9001, one of the ISO 9000 series of standards specified by the International Organization for Standardization (ISO). The ISO 9000 standards specify an effective quality system for manufacturing and service industries; ISO 9001 deals specifically with software development and maintenance. The main difference between the two systems lies in their respective purposes: ISO 9001 specifies a minimal acceptable quality level for software processes, while the CMM establishes a framework for continuous process improvement and is more explicit than the ISO standard in defining the means to be employed to that end.
 ### CMM's Five Maturity Levels of Software Processes:
 #### At the initial level, processes are disorganized, even chaotic. Success is likely to depend on individual efforts, and is not considered to be repeatable, because processes would not be sufficiently defined and documented to allow them to be replicated.
